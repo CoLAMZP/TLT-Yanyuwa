@@ -8,4 +8,4 @@ The first part consists of the files related to `doc.ipynb`. These files include
 
 The second part is the `neo4j_script.ipynb` file. This file is mainly used to construct the document-level knowledge graph for the overall **Yanyuwa** corpus. Compared with the first part, which focuses more on node construction from individual articles or local text samples, this file is designed to organize and connect information at a higher level across the full set of documents, thereby forming a broader knowledge graph structure for the project.
 
-`YanyuwaProjectExperimentCodes.zip` contains the code for the **Part-of-Speech Tagging** and **Named Entity Recognition** tasks. It includes the overall training pipeline, experimental results, and the relevant environment settings and dependencies required for reproducing the experiments.
+`YanyuwaProjectExperimentCodes` foldfer contains the code for the **Part-of-Speech Tagging** and **Named Entity Recognition** tasks. It includes the overall training pipeline, experimental results, and the relevant environment settings and dependencies required for reproducing the experiments.
